@@ -6,6 +6,7 @@ public class User {
     private String gender;
     private int age;
     private String city;
+    private String dev;
 
     public String getName() {
         return name;
